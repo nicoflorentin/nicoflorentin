@@ -14,14 +14,22 @@ I am a passionate Full Stack developer with a strong specialization in JavaScrip
 - JavaScript
 - HTML/CSS
 - React
-- Node.js
 - ChakraUI
+- TailwindCSS
+- Node.js
+- Express.js
+- Sequelize
+- SQL
+- PostgreSQL
 - Firebase Cloudstore
+- Figma
+- AdobeXD
 - Version control software (GIT / GitHub)
 - Proactivity
 - Problem-solving
 - Organization
 - Creativity
+- Design
 
 ## Contact 📞
 - Email: nicoflorentn@gmail.com
