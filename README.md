@@ -6,9 +6,6 @@ I am a passionate Full Stack developer with a strong specialization in JavaScrip
 ## Education 📚
 - Sound engineering at Universidad Nacional de Tres de Febrero
 
-## Experience 🎓
-- Teaching Assistant at SoyHenry: During my time as a Teaching Assistant at SoyHenry, I had the opportunity to work with an exceptional group of individuals. This experience allowed me to improve my communication, organization, negotiation, and decision-making skills.
-
 ## Skills 🚀
 - JavaScript
 - HTML/CSS
