@@ -4,8 +4,7 @@
 I am a passionate Full Stack developer with a strong specialization in JavaScript. My name is Nicolás Florentín, and I have a background in sound design and mathematics, which adds a unique perspective to my development work. I am constantly seeking opportunities to expand my programming skills and enhance my knowledge.
 
 ## Education 📚
-- Full Stack Developer at SoyHenry
-- Self-taught training with a focus on JavaScript
+- Sound engineering at Universidad Nacional de Tres de Febrero
 
 ## Experience 🎓
 - Teaching Assistant at SoyHenry: During my time as a Teaching Assistant at SoyHenry, I had the opportunity to work with an exceptional group of individuals. This experience allowed me to improve my communication, organization, negotiation, and decision-making skills.
