@@ -21,15 +21,9 @@ I am a passionate Full Stack developer with a strong specialization in JavaScrip
 - Figma
 - AdobeXD
 - Version control software (GIT / GitHub)
-- Proactivity
-- Problem-solving
-- Organization
-- Creativity
-- Design
 
 ## Contact 📞
 - Email: nicoflorentn@gmail.com
-- GitHub: [github.com/nicoflorentin](https://github.com/nicoflorentin)
-- LinkedIn: [linkedin](https://www.linkedin.com/in/nflorentin/)
+- Links : [Linktree](https://linktr.ee/qflorent)
 
-I am a dedicated, proactive, and organized developer who is always eager to take on new challenges. If you have any questions or would like to discuss potential opportunities, feel free to reach out to me.
+If you have something to say, I will be glad to talk with you!
