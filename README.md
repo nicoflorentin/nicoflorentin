@@ -30,6 +30,6 @@ I am a passionate Full Stack developer with a strong specialization in JavaScrip
 ## Contact 📞
 - Email: nicoflorentn@gmail.com
 - GitHub: [github.com/nicoflorentin](https://github.com/nicoflorentin)
-- LinkedIn: [linkedin](https://www.linkedin.com/in/nicol%C3%A1s-florent%C3%ADn-a3771217a/)
+- LinkedIn: [linkedin](https://www.linkedin.com/in/nflorentin/)
 
 I am a dedicated, proactive, and organized developer who is always eager to take on new challenges. If you have any questions or would like to discuss potential opportunities, feel free to reach out to me.
