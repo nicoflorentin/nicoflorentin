@@ -5,6 +5,8 @@ I am a passionate Full Stack developer with a strong specialization in JavaScrip
 
 ## Education 📚
 - Sound engineering at Universidad Nacional de Tres de Febrero
+- Henry
+- Coderhouse
 
 ## Stack 🚀
 - JavaScript
