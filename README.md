@@ -1,7 +1,7 @@
 # Nicolás Florentín - Full Stack Developer 💻🎨💾
 
 ## About Me 🙋‍♂️
-I am a passionate Full Stack developer with a strong specialization in JavaScript. My name is Nicolás Florentín, with a sound design and mathematic background that adds a unique perspective to my development work. I am constantly seeking opportunities to improve my programming skills and expand my knowledge.
+I am a Full Stack developer with specialized in JavaScript. My name is Nicolás Florentín, with a  mathematic and background that adds a unique perspective to my work. I live programming as a journey, embracing each day as an opportunity to learn and grow.
 
 ## Education 📚
 - Sound engineering at Universidad Nacional de Tres de Febrero
@@ -9,19 +9,12 @@ I am a passionate Full Stack developer with a strong specialization in JavaScrip
 - Coderhouse
 
 ## Stack 🚀
-- JavaScript
-- HTML/CSS
+- JavaScript- HTML/CSS
 - React
-- ChakraUI
-- TailwindCSS
-- Node.js
-- Express.js
-- Sequelize
-- SQL
-- PostgreSQL
-- Firebase Cloudstore
-- Figma
+- ChakraUI - TailwindCSS - NextUI
+- Node.js - Express.js - Sequelize - SQL - PostgreSQL - Firebase Cloudstore
 - Version control software (GIT / GitHub)
+- Figma
 
 ## Contact Information 📞
 - Email: nicoflorentn@gmail.com
