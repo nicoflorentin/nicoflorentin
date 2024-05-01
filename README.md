@@ -1,12 +1,10 @@
 # Nicolás Florentín - Full Stack Developer
 
 ## Me 🙋‍♂️
-I am a Full Stack developer with specialized in JavaScript. My name is Nicolás Florentín, with a  mathematic and background that adds a unique perspective to my work. I live programming as a journey, embracing each day as an opportunity to learn and grow.
+I'm Nicolás, a Front-End developer specialized in JavaScript and ReactJs. While I also have experience in Back-End technologies and UX/UI design, I'm able to create digital experiences that make impact on businesses and connect with people
 
 ## Education
-- Sound engineering at Universidad Nacional de Tres de Febrero
-- Henry
-- Coderhouse
+- Acoustic engineering at Universidad Nacional de Tres de Febrero
 
 ## Stack
 - JavaScript- HTML/CSS
