@@ -1,4 +1,4 @@
-# Nicolás Florentín - Full Stack Developer
+# Nicolás Florentín - Front-End Developer
 
 ## Me 🙋‍♂️
 I'm Nicolás, a Front-End developer specialized in JavaScript and ReactJs. While I also have experience in Back-End technologies and UX/UI design, I'm able to create digital experiences that make impact on businesses and connect with people
