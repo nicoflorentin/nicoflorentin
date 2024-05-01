@@ -1,12 +1,12 @@
 # Nicolás Florentín - Front-End Developer
 
-## Me 🙋‍♂️
-I'm Nicolás, a Front-End developer specialized in JavaScript and ReactJs. While I also have experience in Back-End technologies and UX/UI design, I'm able to create digital experiences that make impact on businesses and connect with people
+## Brief 🙋‍♂️
+I'm Nicolás, a Front-End developer specialized in JavaScript and ReactJs. I also have experience in Back-End technologies and UX/UI design, I'm able to create digital experiences that make impact on businesses and connect with people
 
 ## Education
 - Acoustic engineering at Universidad Nacional de Tres de Febrero
 
-## Stack
+## Technology Stack
 - JavaScript- HTML/CSS
 - React
 - ChakraUI - TailwindCSS - NextUI
@@ -14,8 +14,28 @@ I'm Nicolás, a Front-End developer specialized in JavaScript and ReactJs. While
 - Version control software (GIT / GitHub)
 - Figma
 
-## Contact
+## Let's make contact
 - Email: nicoflorentn@gmail.com
 - Links : [Linktree](https://linktr.ee/qflorent)
 
 If you have something to say, I'd be glad to talk with you ❤
+
+# Nicolás Florentín - Desarrollador Front-End
+## Breve introducción 🙋‍♂️
+Soy Nicolás, un desarrollador Front-End especializado en JavaScript y ReactJs. Si bien también tengo experiencia en tecnologías Back-End y diseño UX/UI, soy capaz de crear experiencias digitales que impactan en los negocios y conectan con las personas.
+
+## Educación
+Ingeniería en Sonido en la Universidad Nacional de Tres de Febrero
+
+## Tecnologías
+JavaScript (HTML/CSS)
+React
+ChakraUI - TailwindCSS - NextUI
+Node.js - Express.js - Sequelize - SQL - PostgreSQL - Firebase Cloudstore
+Software de control de versiones (GIT / GitHub)
+Figma
+
+## Estemos en contacto
+Email: nicoflorentn@gmail.com
+Links: Linktree: https://linktr.ee/qflorent
+Si te interesa mi perfil, no dudes en escribir ❤
