@@ -9,7 +9,8 @@ I'm Nicolás, a Front-End developer specialized in JavaScript and ReactJs. I als
 ## Technology Stack
 - JavaScript- HTML/CSS
 - React
-- ChakraUI - TailwindCSS - NextUI
+- React Native
+- ChakraUI - TailwindCSS - NextUI - Framer Motion
 - Node.js - Express.js - Sequelize - SQL - PostgreSQL - Firebase Cloudstore
 - Version control software (GIT / GitHub)
 - Figma
@@ -28,14 +29,15 @@ Soy Nicolás, un desarrollador Front-End especializado en JavaScript y ReactJs. 
 Ingeniería en Sonido en la Universidad Nacional de Tres de Febrero
 
 ## Tecnologías
-JavaScript (HTML/CSS)
-React
-ChakraUI - TailwindCSS - NextUI
-Node.js - Express.js - Sequelize - SQL - PostgreSQL - Firebase Cloudstore
-Software de control de versiones (GIT / GitHub)
-Figma
+- JavaScript- HTML/CSS
+- React
+- React Native
+- ChakraUI - TailwindCSS - NextUI - Framer Motion
+- Node.js - Express.js - Sequelize - SQL - PostgreSQL - Firebase Cloudstore
+- Version control software (GIT / GitHub)
+- Figma
 
-## Estemos en contacto
+## Contacto
 Email: nicoflorentn@gmail.com
 Links: Linktree: https://linktr.ee/qflorent
 Si te interesa mi perfil, no dudes en escribir ❤
