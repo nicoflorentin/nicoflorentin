@@ -4,17 +4,9 @@
 I'm Nicolás, a Full Stack Developer specialized in JavaScript, ReactJs, and Node.js. With experience in both Front-End and Back-End development, I create scalable and robust web and mobile solutions. My focus on design and user interfaces allows me to deliver high-quality digital experiences that connect with users and drive business impact.
 
 ## Tech Stack  
-
-### **Front End**  
 JavaScript | ReactJs | React Native | Expo | React Redux Toolkit | React Context API | React Router v6 | MapboxAPI | React Query | Zustand | Tanstack Query | Astro
-
-### **Back End**  
 NodeJs | ExpressJs | Sequelize | PostgreSQL | Firebase | Cloud Firestore | JWT  
-
-### **Styles**  
 CSS | TailwindCSS | Styled-Components | Bootstrap | ChakraUI | NextUI | React Native Paper  
-
-### **Other**  
 Linux | GIT - GitHub | Figma | AdobeXD
 
 ## Contact  
